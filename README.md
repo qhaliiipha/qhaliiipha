@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qhaliiipha
 - 👀 I’m interested in learning 
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on apl Tech jobs
+- 💞️ I’m looking to collaborate on Tech jobs
 - 📫 How to reach me @abu_husle on ig
 
 <!---
